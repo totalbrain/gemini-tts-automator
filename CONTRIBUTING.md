@@ -1,0 +1,1 @@
+Please follow the code of conduct and submit pull requests to the main branch. Include descriptive commit messages, tests (when applicable), and follow existing code style. For substantial changes, open an issue first to discuss.
